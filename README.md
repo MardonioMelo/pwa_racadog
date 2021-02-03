@@ -1,4 +1,6 @@
-# racadog
+# Racadog
+
+Este projeto consome a API Racadog
 
 ## Project setup
 ```
@@ -22,3 +24,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Tenologias
+Neste projeto foram utilizadas as bibliotecas:
+- bulma
+- axios 
